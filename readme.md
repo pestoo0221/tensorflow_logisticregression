@@ -6,6 +6,7 @@ or the detailed information from
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 X 150 observations : 4 features
+
 Y 150 observations : 3 labels (spieces)
 
 ### Logistic regression with tensorflow
